@@ -1,3 +1,36 @@
-.boxed {
-    border: 1px solid green ;
-  }
+body {
+    background-color: #333333;
+}
+
+.title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    color: black;
+    border-top: 50px;
+}
+
+#beginningHeader {
+    background-color: white;
+}
+
+#image {
+    margin-top: 10px;
+    width: 25%;
+    height: 25%;
+    margin-bottom: 20px;
+}
+
+#getStarted {
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.name {
+    text-align: center;
+}
+
+/* #teamGroup {
+    display: flex;
+    justify-content: center;
+} */
