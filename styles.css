@@ -30,7 +30,11 @@ body {
     text-align: center;
 }
 
-/* #teamGroup {
-    display: flex;
-    justify-content: center;
-} */
+.block {
+    display: block;
+}
+
+#development {
+    color: white;
+    text-align: center;
+}
